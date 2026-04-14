@@ -1,5 +1,7 @@
-# Never commit your credentials!
+# Never commit your credentials or logs!
 credentials.ini
+bmu_wifi.log
+bmu_wifi.log.*
 
 # Python
 __pycache__/
